@@ -2,7 +2,7 @@
 
 	João Paulo Silva
 	Tiago Primo
-  et.al (UFAM)
+	et.al (UFAM)
 
 Colaboração com professores e alunos de IC da UFAM para composição estrutural básica do padrão de metadados para o desenvolvimento de aulas formatadas para
 o modelo de uso SensibleSchool.
