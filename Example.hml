@@ -1,0 +1,21 @@
+# DublinCore 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head profile="http://dublincore.org/documents/2008/08/04/dc-html/">
+<title>metadata</title>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<meta name="DC.Title" content="virtual laboratory">
+<meta name="DC.Creator" content="phet">
+<meta name="DC.Subject" content="physics">
+<meta name="DC.Description" content="optics">
+<meta name="DC.Contributor" content="JP">
+<meta name="DC.Date" content="11-12-2015">
+<meta name="DC.Type" content="simulation">
+<meta name="DC.Format" content="html">
+<meta name="DC.Language" content="por">
+</head>
+<body>
+</body>
+</html>
